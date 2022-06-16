@@ -1,0 +1,5 @@
+15:37:05.076 [TestNG-tests-2] DEBUG io.netty.util.internal.ThreadLocalRandom - -Dio.netty.initialSeedUniquifier: 0xf9fdecc4602270e4
+15:37:23.062 [TestNG-tests-1] INFO  resources.Base - Nav
+15:37:23.072 [AsyncHttpClient-1-7] TRACE io.netty.handler.codec.http.websocketx.WebSocket08FrameEncoder - Encoding WebSocket Frame opCode=8 length=26
+15:37:23.844 [TestNG-tests-2] INFO  Project.Practical.HomePage - hihihi
+15:37:24.092 [AsyncHttpClient-1-5] TRACE io.netty.handler.codec.http.websocketx.WebSocket08FrameEncoder - Encoding WebSocket Frame opCode=8 length=26

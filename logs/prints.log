@@ -1,0 +1,2 @@
+18:02:37.372 [main] INFO  resources.Base - Nav
+18:02:37.423 [AsyncHttpClient-1-4] TRACE io.netty.handler.codec.http.websocketx.WebSocket08FrameEncoder - Encoding WebSocket Frame opCode=8 length=26
